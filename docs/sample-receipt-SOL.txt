@@ -1,0 +1,52 @@
+=== DECISION RECEIPT ===
+ID: 412ee864-625a-4267-96f1-c43f6d8f2531
+When: 2026-10-29T07:46:08.779Z
+Q: Is SOL a swing long this week?
+Asset: SOL · Mode: advise_only
+
+--- EVIDENCE ---
+[e1] RealCryptoCap market-data (unavailable/unknown)
+    Market context unavailable at this moment.
+[e2] RealCryptoCap coin data (partial/live)
+    Coin page context loaded for SOL (chart series limited right now).
+[e3] RYO market_overview (ok/live)
+    Market regime: neutral; sentiment: fear (43/100).
+[e4] RYO analyze_token (ok/live)
+    SOL analysis: avoid.
+[e5] RYO deep_analysis (ok/live)
+    SOL deep analysis: cautious.
+[e6] RYO monitor_market_sentiment_shift (ok/live)
+    Fear & Greed is 43, down 5 points over seven days (not a material shift). BTC perpetual daily funding averages 0.796971 bps per day over the latest seven days, up 0.142 bps per day week over week, with long-side funding crowding. BTC perpetual daily liquidations total $32.21 million, with short liquidations dominant and normal pressure. Overall sentiment regime: mixed sentiment.
+
+--- BULL CASE ---
+Case for a constructive practice bias.
+  + Weak 24h can be a reset if higher-timeframe structure holds.
+  + RSI is mid-range (39.8) — room to expand either way.
+  + market_overview: Market regime: neutral; sentiment: fear (43/100).
+  + analyze_token: SOL analysis: avoid.
+  + deep_analysis: SOL deep analysis: cautious.
+  + monitor_market_sentiment_shift: Fear & Greed is 43, down 5 points over seven days (not a material shift). BTC perpetual daily funding averages 0.796971 bps per day over the latest seven days, up 0.142 bps per day week over week, with long-side funding crowding. BTC perpetual daily liquidations total $32.21 million, with short liquidations dominant and normal pressure. Overall sentiment regime: mixed sentiment.
+
+--- BEAR CASE ---
+Case for patience / risk control.
+  − 24h performance is soft (-2.10%), so sellers still have the tape.
+  − 7d performance is negative (-4.40%).
+  − Counter-read on market_overview: check whether market regime: neutral; sentiment: fear (43/100). is already priced.
+  − Counter-read on analyze_token: check whether sol analysis: avoid. is already priced.
+  − Counter-read on deep_analysis: check whether sol deep analysis: cautious. is already priced.
+  − Counter-read on monitor_market_sentiment_shift: check whether fear & greed is 43, down 5 points over seven days (not a material shift). btc perpetual daily funding averages 0.796971 bps per day over the latest seven days, up 0.142 bps per day week over week, with long-side funding crowding. btc perpetual daily liquidations total $32.21 million, with short liquidations dominant and normal pressure. overall sentiment regime: mixed sentiment. is already priced.
+
+--- JUDGMENT ---
+neutral · confidence 5/10
+Judge scored bull points 6 vs bear points 6. Stance is neutral for a practice plan only. Revisit if RYO evidence goes unavailable or RealCryptoCap coverage changes.
+
+--- PRACTICE PLAN (NOT AN ORDER) ---
+Bias: wait for confirmation · Horizon: swing / multi-day watch
+Idea entry: watch near 99.7267735218242 · Invalid: thesis breaks if higher-timeframe structure fails
+Size hint: practice only — smallest size if this were real · Risk: No execution. Not financial advice. ATR-based plan preview only.
+
+--- COVERAGE / FAILURE NOTES ---
+  ! RealCryptoCap market-data unavailable — continuing with token evidence.
+  ! RealCryptoCap chart series limited — receipt still uses available coin/market fields.
+
+Research brief and practice plan only. Not financial advice. No assets were bought, sold, or moved.

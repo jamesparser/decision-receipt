@@ -1,0 +1,8 @@
+.env
+node_modules/
+out/
+demo/rec/
+demo/rec2/
+demo/frames/
+demo/frames2/
+.DS_Store
